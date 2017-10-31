@@ -1,0 +1,14 @@
+{
+  "name": "arpabet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lizzie Siegle <esiegle@brynmawr.edu> (http://elizabethsiegle.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "cmu-pronouncing-dictionary": "^1.0.3"
+  }
+}
